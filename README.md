@@ -1,4 +1,4 @@
-# Youtube to mp3 (yottomp3)
+# Youtube to mp3
 
 ### Used technologies
   -  [Node.js](https://nodejs.org/es/)
@@ -12,4 +12,4 @@
 
 ### Instalation
 
-Using ```npm install -g yottomp3``` or opening the folder on the console and executing ```npm install -g .```
+Using ```npm install -g yt-cli-downloader``` or opening the folder on the console and executing ```npm install -g .```
